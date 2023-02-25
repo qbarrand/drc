@@ -8,6 +8,6 @@ require (
 	github.com/muka/go-bluetooth v0.0.0-20211023182635-c49e7c952f19 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/urfave/cli/v2 v2.3.0
-	golang.org/x/sys v0.0.0-20211031064116-611d5d643895 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	tinygo.org/x/bluetooth v0.3.0
 )
